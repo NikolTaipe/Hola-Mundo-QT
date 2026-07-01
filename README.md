@@ -1,4 +1,6 @@
-
+<div align="center">
+  <img src="Banner.png" alt="Banner del proyecto" width="100%"/>
+</div>
 
 # 💜 Hola Mundo en Qt con C++
 # 👥 Autor
