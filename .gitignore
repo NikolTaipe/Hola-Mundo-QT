@@ -1,0 +1,21 @@
+# Compilación
+build-*/
+Makefile
+*.o
+*.obj
+moc_*
+ui_*
+qrc_*
+
+# Ejecutables
+hola
+hola.exe
+*.exe
+
+# Qt Creator
+*.user
+*.pro.user
+
+# Temporales
+.DS_Store
+Thumbs.db
